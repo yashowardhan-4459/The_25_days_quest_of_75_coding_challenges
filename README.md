@@ -1,2 +1,8 @@
 # The_25_days_quest_of_75_coding_challenges
-25 days, 75 questions based on coding in C... Difficulty level ranges from basic to moderately advanced...
+25-days C Coding Challenge 
+Welcome to the 25 days quest of knowledge of C Coding, organized by our Coding Club! This challenge has been designed in such a way that whether you are an experienced programmer wanting to enhance your skills or just a beginner who wants to try his hands in this field, this challenge will help you a lot...
+
+Challenge Overview
+Everyday, for next 25 days, you will be presented with a task or a problem to solve based on the C programming language. These challenges will cover a range of topics and difficulty levels, allowing you to eventually build your expertise in C...
+
+
